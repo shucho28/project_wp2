@@ -1,0 +1,8 @@
+MANIFEST.in
+wp/__init__.py
+wp/wp.py
+wp.egg-info/PKG-INFO
+wp.egg-info/SOURCES.txt
+wp.egg-info/dependency_links.txt
+wp.egg-info/requires.txt
+wp.egg-info/top_level.txt

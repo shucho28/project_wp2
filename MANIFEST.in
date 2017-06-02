@@ -1,0 +1,2 @@
+graft wp/templates
+graft wp/static
