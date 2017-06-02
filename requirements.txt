@@ -1,0 +1,15 @@
+cherrypy==3.4.0
+click==6.7
+Django==1.8.4
+Flask==0.12.2
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+mysql-connector-python==2.1.1
+numpy==1.11.1
+py2exe==0.9.2.2
+UNKNOWN==0.0.0
+virtualenv==13.1.2
+Werkzeug==0.12.2
+-e git+git@github.com:shucho28/project_wp.git@6a135b15fdb6d73ec6db86f4878a6b939b7ee059#egg=wp&subdirectory=wp
