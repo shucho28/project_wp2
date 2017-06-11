@@ -1,1 +1,1 @@
-web: gunicorn wp:wp.py
+web: gunicorn wp:wp
